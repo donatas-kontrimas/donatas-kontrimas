@@ -8,4 +8,4 @@ description = "inauguration"
 The aim of this website is to be simple, fast and clean. 
 
 
-Most probalby, the posting will be infrequent and possibly maybe wide-ranging.
+Most probably, the posting will be quite infrequent and *possibly maybe* wide-ranging.
