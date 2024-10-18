@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://donatas.h-o-s-t.name"
 theme = "hugo-simple"
 languageCode = "en"                # LT
 title = "Simple Hugo site"
