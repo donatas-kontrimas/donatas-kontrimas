@@ -1,8 +1,10 @@
 +++
-author = "Hugo Authors"
 title = "First Post"
 date = "2024-10-17"
 description = "inauguration"
+tags = [
+    "first"
+]
 +++
 
 The aim of this website is to be simple, fast and clean. 

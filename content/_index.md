@@ -1,5 +1,5 @@
 ---
-title: "ʕ •ᴥ•ʔ"
+title: "ʕ•ᴥ•ʔ"
 ---
 
 > Quote me as saying I was mis-quoted.
